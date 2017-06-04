@@ -4,7 +4,7 @@ This is where you can find information and instructions of all features and opti
 
 The main Opus App website can you find <a href="http://opusapp.ml"> HERE. </a>
 
-## Feature LList
+## Feature List
 
 1. _Adding_ notes.
 2. _Adding_ notes with _voice_.
