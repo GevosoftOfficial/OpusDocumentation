@@ -40,7 +40,7 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ### Having problems?
 ### Comment on github, instagram or email us:
 <br>
-Email: support@tellspace.ml
+Email: info@tellspace.ml
 <br>
 <br>
 Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
