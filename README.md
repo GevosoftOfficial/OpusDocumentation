@@ -48,6 +48,3 @@ Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
 <br>
 Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 <br> <br>
-## Contact Form
-<br>
-<br>
