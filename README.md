@@ -21,7 +21,7 @@ To add a note click on the big oragne ***Add*** button. YThis will make a new se
 ### 2. _Adding_ notes with your _voice_:
 
 If you want to add a note in a rush you can add it with 2 taps and your voice, here is how...
-Long click the big organe ***Add** button and the phone will tell you that voice mode is activiated. First add a title, after speaking out the title stay quiet for a few seconds and the app will continue to adding thr note text. To save click the green***Save*** buttton. And to cancel the red ***Cancel*** button. (In future updates you will be able to save the note handsfree to.) 
+Long click the big organe ***Add*** button and the phone will tell you that voice mode is activiated. First add a title, after speaking out the title stay quiet for a few seconds and the app will continue to adding thr note text. To save click the green ***Save*** buttton. And to cancel the red ***Cancel*** button. (In future updates you will be able to save the note handsfree to.) 
 
 ### 3. _Editing_ notes:
 
