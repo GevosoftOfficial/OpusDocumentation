@@ -58,13 +58,13 @@ Tell Space is a technology development company for more information see <a href=
 
 # Contact
 ## Contact
-Email: contact@tellspace.ml
+Email: contact@tellspace.tk
 <br>
 <br>
 Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
 <br>
 <br>
-Hashtags: #tellspace, #onyxbash #opusapp
+Hashtags: #tellspace, #onyxbash #opusapp.
 <br>
 <br>
 Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
@@ -75,7 +75,7 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ### Having problems?
 ### Comment on github, instagram or email us:
 <br>
-Email: info@tellspace.ml
+Email: info@tellspace.tk
 <br>
 <br>
 Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
