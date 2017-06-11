@@ -5,7 +5,7 @@ This is where you can find information and instructions of all features and opti
 
 The main Opus App website us located <a href="http://opusapp.ml"> HERE. </a>
 
-## Feature List
+## Feature List Opus Version: 3.0
 
 1. _Adding_ notes.
 2. _Adding_ notes with your _voice_.
