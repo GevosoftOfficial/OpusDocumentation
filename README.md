@@ -1,5 +1,5 @@
 # Welcome to Opus Help and Documentation Site
-## The Beta Versions Documentayion can be yound <a href="https://tellspace.wordpress.com/opus-beta-documentation/">Here</a>
+### The Beta Versions Documentation can be found <a href="https://tellspace.wordpress.com/opus-beta-documentation/">Here</a>
 
 This is where you can find information and instructions of all features and options in the Opus App.
 
