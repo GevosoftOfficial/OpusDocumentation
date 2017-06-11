@@ -30,7 +30,7 @@ To edit a saved note click the oragne ***My Notes*** button and a list with your
 
 ### 4. _Checking_ and _archiving_:
 
-In opus you can't delete a note just archive and overwrite it. _Archiving_ and _Checking_ is basicly the same thing. Say you have created a note called 'Buy milk' after you have completed the task (in this case to buy milk) open the note from ***My notes*** click ***Edit*** and ***Check*** to mark the note or task as done and move it from _My Notes_ to the _Archive_ (Witch you can acces by clicking on the oragne ***Archive*** button on the top of the screen). ***Warning! By adding a note to the archive list you can't get it back and it will only stay in the archive until you archive another note, the archive only stores the lastly archived/checked note!***
+In opus you can't delete a note just archive and overwrite it. _Archiving_ and _Checking_ is basicly the same thing. Say you have created a note called 'Buy milk' after you have completed the task (in this case to buy milk) open the note from ***My notes*** and click ***Check*** to mark the note or task as done and move it from _My Notes_ to the _Archive_ (Witch you can acces by clicking on the oragne ***Archive*** button on the top of the screen). You can allso check the note from editing mode ;) ***Warning! By adding a note to the archive list you can't get it back and it will only stay in the archive until you archive another note, the archive only stores the lastly archived/checked note!***
 
 ### 5. _Settings_ Info
 
