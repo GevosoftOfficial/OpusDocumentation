@@ -5,7 +5,7 @@ This is where you can find information and instructions of all features and opti
 
 The main Opus App website us located <a href="http://opusapp.ml"> HERE. </a>
 
-## Feature List Opus Version: 3.0
+## Feature List Opus Version: 4.0
 
 1. _Adding_ notes.
 2. _Adding_ notes with your _voice_.
@@ -30,7 +30,7 @@ To edit a saved note click the oragne ***My Notes*** button and a list with your
 
 ### 4. _Checking_ and _archiving_:
 
-In opus you can't delete a note just archive and overwrite it. _Archiving_ and _Checking_ is basicly the same thing. Say you have created a note called 'Buy milk' after you have completed the task (in this case to buy milk) open the note from ***My notes*** and click ***Check*** to mark the note or task as done and move it from _My Notes_ to the _Archive_ (Witch you can acces by clicking on the oragne ***Archive*** button on the top of the screen). You can allso check the note from editing mode ;) ***Warning! By adding a note to the archive list you can't get it back and it will only stay in the archive until you archive another note, the archive only stores the lastly archived/checked note!***
+In opus you can't delete a note just archive and overwrite it. _Archiving_ and _Checking_ is basicly the same thing. Say you have created a note called 'Buy milk' after you have completed the task (in this case to buy milk) open the note from ***My notes*** and click ***Check*** to mark the note or task as done and move it from _My Notes_ to the _Archive_ (Witch you can acces by clicking on the oragne ***Archive*** button on the top of the screen). You can allso check the note from editing mode ;) ***Warning! The archive only stores the lastly checked note witch means that if you have a note archived and check another one the old note will be overwrited by the new one and it will be lost!*** If you want to restore a archived note just click on 'Archive' click on the note you want to restore, a new UI area will pop up with the actions 'Restore' and 'Cancel' To restore click 'Restore' and the npte will be removd from the archive and moved to 'My Notes'.
 
 ### 5. _Settings_ Info
 
