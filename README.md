@@ -53,22 +53,22 @@ If you click this button a warning will show up and warn you, but to reset you w
 
 # About
 
-## Tell Space
+## Gevosoft
 
-Tell Space is a technology development company for more information see <a href="http://tellspace.ml"> Tell Spaces Official Website </a>
+Gevosoft is a technology development company for more information see <a href="http://gevosoft.ml"> Gevosofts Official Website </a>
 
 # Contact
 ## Contact
-Email: contact@tellspacehq.ml
+Email: contactgevosoft@gmail.com
 <br>
 <br>
-Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
+Instagram: <a href="http://www.instagram.com/gevosoft/"> @gevosoft </a>
 <br>
 <br>
-Hashtags: #tellspace, #onyxbash #opusapp.
+Hashtags: #gevosoft, #onyxbash #opusapp.
 <br>
 <br>
-Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
+Github: <a href="https://github.com/GevosoftOfficial"> GevosoftOfficial </a>
 <br>
 <br>
 <br>
@@ -76,11 +76,13 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ### Having problems?
 ### Comment on github, instagram or email us:
 <br>
-Email: info@tellspacehq.ml
+Email: contact.gevosoft@gmail.com
 <br>
 <br>
-Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
+Instagram: <a href="http://www.instagram.com/gevosoft/"> @gevosoft </a>
 <br>
 <br>
-Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
+Github: <a href="https://github.com/gevosoftOfficial"> GevosoftOfficial </a>
 <br> <br>
+
+Opus App | Gevosoft 2018
