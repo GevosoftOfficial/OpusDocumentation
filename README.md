@@ -85,4 +85,4 @@ Instagram: <a href="http://www.instagram.com/gevosoft/"> @gevosoft </a>
 Github: <a href="https://github.com/gevosoftOfficial"> GevosoftOfficial </a>
 <br> <br>
 
-Opus App | Gevosoft 2018
+Opus App | Gevosoft 2019
